@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adminSkin version="1.1" language="ko">
+	<information>
+		<name>Googled</name> 
+		<version>1.9</version>
+		<description><![CDATA[Skin for googlers.]]></description>
+		<license><![CDATA[GPL]]></license>
+	</information> 
+	<author>
+		<name>Jeongkyu Shin</name>
+		<homepage>http://forest.nubimaru.com</homepage>
+		<email>inureyes@gmail.com</email>
+	</author> 
+</adminSkin>
