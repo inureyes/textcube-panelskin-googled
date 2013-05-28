@@ -222,7 +222,6 @@
 
 #textcube-notice h4.caption span
 {
-	border-right                     : 1px solid #EEE;
 	height                           : 20px;
 	padding                          : 0;
 	line-height                      : 1.4em;
@@ -255,8 +254,6 @@
 #myBlogInfo h4
 {
 	line-height                      : 1.4em; 
-	border-left                      : 1px solid #EEE;
-	border-right                     : 1px solid #EEE;
 	border-top                       : 1px solid #EEE;
 	margin-top                       : 10px !important;
 	padding-top                      : 0 !important;
@@ -265,7 +262,6 @@
 
 #myBlogInfo h4.caption span
 {
-	border-right                     : 1px solid #EEE;
 	height                           : 20px;
 	padding                          : 0;
 	line-height                      : 1.4em;
@@ -296,7 +292,6 @@
 	font-weight                      : bold;
 	font-size                        : 0.875em;
 	width                            : 40px;
-	border-right                     : 1px solid #DDD !important;
 }
 #myBlogInfo table td.category
 {
