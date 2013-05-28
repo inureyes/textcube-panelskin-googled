@@ -135,16 +135,19 @@
 	-webkit-border-radius: 3px;
 	border-radius: 3px;
 }
-
+#shortcut-collection ul li a.newPost
+{
+	text-decoration                  : none;
+}
 #shortcut-collection ul li a.newPost span
 {
 	display                          : block;
 	width                            : 100%;
-	padding-top                      : 35px;
+	line-height                      : 78px;
+	vertical-align                   : middle;
 	margin                           : 0 auto;
 	text-align                       : center;
 	color                            : #fff;
-	text-decoration                  : none;
 }
 
 /* total information */
