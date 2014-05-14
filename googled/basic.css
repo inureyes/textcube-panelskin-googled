@@ -631,11 +631,11 @@ textarea
 	border:3px solid #fff;
 }
 
-.part:hover
+/*.part:hover
 {
 	border:3px solid #90b8dc;
 	-webkit-transition-duration      : 300ms;
-}
+}*/
 
 .part .caption,
 h2.caption
@@ -708,7 +708,7 @@ h2.caption span
 .main-explain-box .explain a:hover,
 .main-explain-box .explain a:active
 {
-	color                            : #FC924B;
+	/*color                            : #FC924B;*/
 	text-decoration                  : underline;
 }
 /* preventing IE overflow:visible bug */

@@ -16,8 +16,13 @@
 
 #layout-body #part-center-quilt
 {
+	padding:0 !important;
 }
-
+#optimizingDialogBox {
+	background-color:transparent;
+	border:0 !important;
+	padding:0 !important;
+}
 #part-center-quilt h2,
 #part-center-quilt-edit h2
 {
